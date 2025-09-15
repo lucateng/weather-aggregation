@@ -1,0 +1,17 @@
+id:X2
+name:Second Update
+state:SA
+time_zone:CST
+lat:-34.1
+lon:138.1
+local_date_time:01/01:01am
+local_date_time_full:20240101010000
+air_temp:11.0
+apparent_t:10.0
+cloud:Cloudy
+dewpt:3.0
+press:1011.0
+rel_hum:55
+wind_dir:SE
+wind_spd_kmh:6
+wind_spd_kt:4

@@ -1,0 +1,10 @@
+com/weather/JsonParserTest.class
+com/weather/RecoveryTest.class
+com/weather/ConcurrencyTest.class
+com/weather/TestLog.class
+com/weather/server/SequencedEventTest.class
+com/weather/AppTest.class
+com/weather/IntegrationTest.class
+com/weather/ExpiryTest.class
+com/weather/LamportClockTest.class
+com/weather/FailureModeTest.class

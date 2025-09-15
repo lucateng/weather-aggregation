@@ -1,0 +1,17 @@
+id:X1
+name:First Update
+state:SA
+time_zone:CST
+lat:-34.0
+lon:138.0
+local_date_time:01/01:00am
+local_date_time_full:20240101000000
+air_temp:10.0
+apparent_t:9.0
+cloud:Clear
+dewpt:2.0
+press:1010.0
+rel_hum:50
+wind_dir:S
+wind_spd_kmh:5
+wind_spd_kt:3
